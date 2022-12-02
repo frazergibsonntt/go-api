@@ -18,7 +18,7 @@ In your solution, include a readme containing the necessary steps to set up the 
 - Minikube for local Kubernetes development
 - Docker to build and publish the images
 
-## Notes
+## Deploying the api
 
 ## Building and pushing the docker image
 
